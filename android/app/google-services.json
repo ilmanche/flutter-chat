@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714697246109",
+    "project_id": "flash-chat-bb677",
+    "storage_bucket": "flash-chat-bb677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714697246109:android:53216967a1d022c7a8db74",
+        "android_client_info": {
+          "package_name": "co.Ilman.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714697246109-12jukmkg4sr591f1ul3jb12nctg2p40q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgbc5wOHim2ywQj8TY0QrEvsrC9WRaM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714697246109-12jukmkg4sr591f1ul3jb12nctg2p40q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
